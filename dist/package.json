@@ -1,6 +1,6 @@
 {
-  "name": "vi_package_template",
-  "version": "1.0.2",
+  "name": "vioauth",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vishota/package_template.git"
+    "url": "git+https://github.com/Vishota/vioauth.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Vishota/package_template/issues"
+    "url": "https://github.com/Vishota/vioauth/issues"
   },
-  "homepage": "https://github.com/Vishota/package_template#readme",
+  "homepage": "https://github.com/Vishota/vioauth#readme",
   "devDependencies": {
     "typescript": "^5.2.2"
   },
