@@ -82,6 +82,8 @@ export function generateOauthHandlers<
     Res extends ServerResponse,
     const T extends {
         [title: string]: Parameters<typeof createOAuthHandler<Req, Res>>[0]
+    } = {
+        [title: string]: Parameters<typeof createOAuthHandler<Req, Res>>[0]
     }
 >(
     description: T
