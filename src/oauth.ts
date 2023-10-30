@@ -99,8 +99,7 @@ export function generateOauthHandlers<
 //         'client_id': '',
 //         'client_secret': '',
 //         'oauth2_provider_url': '',
-//         'onfail': () => false,
-//         onokay: () => 'id123',
+//         onokay: () => 'id',
 //         'redirect_uri': ''
 //     }
 // })
